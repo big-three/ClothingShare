@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Clothing Share</string>
+    <string name="choose_profile_avatar">choose profile avatar</string>
+    <string name="enter_contact_info">Enter Contact Info</string>
+    <string name="button">Button</string>
+    <string name="goes_to_lend_page">Goes to Lend Page</string>
+    <string name="goes_to_borrow_page">Goes to Borrow Page</string>
 </resources>
